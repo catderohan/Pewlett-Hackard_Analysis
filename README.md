@@ -12,7 +12,7 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
 
  ![](Resources/unique_titles.PNG)
  
- Lastly, we grouped the current employees eligible to retire by job title. Over 2/3 of jobs that are eligible to retire is senior engineer or engineer. Only 2 employees out of 90,000 were managers. This leads me to believe this was inaccurately colleced or some senior engineers are actually managers.
+ Lastly, we grouped the current employees eligible to retire by job title. SEnior engineers was the largest group of titles and second to largest was senior staff. Only 2 employees out of 90,000 were managers. This seems odd to have half so many senior staff but so few managers.
 
  ![](Resources/retiring_titles.PNG)
 
@@ -30,7 +30,12 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
  
  There were only 1549 mentorship eligible employees. This is out of 70,0000 employees. I'd suggest widening the mentorship eligible program to more than just employees born 1965.
  
- The biggest issue with this data, was that it included all current and past employees. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. Here we found 33,118 current employees to retire.
+ The biggest issue with this data, was that it included all current and past employees. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. 
+ 
+  ![](Resources/actualemployeequery.PNG)
+
+ 
+ Another query to pull would to be look at sum of salaries that are retiring by group
  
  
   
