@@ -35,7 +35,7 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
  
  There were only 1549 mentorship eligible employees. This is out of 90,0000 employees. I'd suggest widening the mentorship eligible program to more than just employees born  in 1965.
  
- **Additional Resources**
+ **Additional Queries**
  
 The biggest issue with the retirement by title data, was that it included all current and past employees eligible to retire. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. 
  
