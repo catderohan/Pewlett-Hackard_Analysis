@@ -7,7 +7,7 @@ The purpose of this assignment was to create a database by merging files and the
 
 First we created an ERD (Entity Relationship Diagram) to map our tables in the database.
 
-![](/QuickDBD-explorer.PNG)
+![](/QuickDBD-explort.PNG)
 
 In Deliverable 1, we looked at all employees and then filtered the data to show employees that were born in between certain years (1952-1955). This gave us all employees that are eligible to retire but it contained multiple titles for each employee.
 
