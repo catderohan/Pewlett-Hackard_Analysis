@@ -26,7 +26,7 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
  
  There would be 72,458 employees eligible to retire which would mean sometime in the next 10 years these roles would need to be filled. 
  
- ** Are there neough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+ ** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
  There were only 1549 mentorship eligible employees. This is out of 70,0000 employees. I'd suggest widening the mentorship eligible program to more than just employees born 1965.
  
