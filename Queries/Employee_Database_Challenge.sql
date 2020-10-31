@@ -33,8 +33,6 @@ FROM unique_titles
 GROUP BY title
 ORDER BY count(title) DESC;
 
-SELECT * FROM unique_titles
-SELECT * FROM employees
 
 
 --Deliverable 2
