@@ -35,7 +35,7 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
   ![](Resources/queryforactualemployees.PNG)
 
  
- Another interesting table to look at would be one that showed the groups of titles by the mentorship eligibility group.
+ Another interesting table to look at would be one that showed the groups of titles by the mentorship eligibility group. Here we can see that senior staff is the largest group by title in the mentorship eligibility program.
  
    ![](Resources/mentorshipbytitle.PNG)
 
