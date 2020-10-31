@@ -12,11 +12,11 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
 
  ![](Resources/unique_titles.PNG)
  
- Lastly, we grouped the current employees eligible to retire by job title. SEnior engineers was the largest group of titles and second to largest was senior staff. Only 2 employees out of 90,000 were managers. This seems odd to have half so many senior staff but so few managers.
+ Lastly, we grouped the current employees eligible to retire by job title. Senior engineers was the largest group of titles and second to largest was senior staff. Only 2 employees out of 90,000 were managers. This seems odd to have so few managers with such a large senior staff. 
 
  ![](Resources/retiring_titles.PNG)
 
- In Deliverable 2, we looked at all employees that are eligble to participate in the mentorship program. Here we filtered the employee file to only current employees and ones that were born in 1965. There are 1549 mentorship eligible employees. 
+ In Deliverable 2, we looked at all employees that are eligble to participate in the mentorship program. Here we filtered the employee file to only current employees and ones that were born in 1965. There are a total of 1549 mentorship eligible employees. 
  
  ![](Resources/mentorship-eligibility.PNG)
  
@@ -28,14 +28,14 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
  
  ** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
- There were only 1549 mentorship eligible employees. This is out of 70,0000 employees. I'd suggest widening the mentorship eligible program to more than just employees born 1965.
+ There were only 1549 mentorship eligible employees. This is out of 90,0000 employees. I'd suggest widening the mentorship eligible program to more than just employees born  in 1965.
  
- The biggest issue with the retirement by title data, was that it included all current and past employees eligible to retire. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. 
+The biggest issue with the retirement by title data, was that it included all current and past employees eligible to retire. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. 
  
   ![](Resources/queryforactualemployees.PNG)
 
  
- Another interesting table to look at would be one that showed the groups of titles by the mentorship eligibility group. Here we can see that senior staff is the largest group by title in the mentorship eligibility program.
+Another interesting table to look at would be one that showed the groups of titles by the mentorship eligibility group. Here we can see that senior staff is the largest group by title in the mentorship eligibility program.
  
    ![](Resources/mentorshipbytitle.PNG)
 
