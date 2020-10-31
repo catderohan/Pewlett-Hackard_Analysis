@@ -1,4 +1,4 @@
-#Pewlett-Hackard_Analysis
+# Pewlett-Hackard_Analysis
 
 ## Purpose
 The purpose of this assignment was to create a database by merging files and then querying the results in SQL to provide an analysis of employees eligible to retire. By using ERD and SQL, we now have a number of employees eligible to retire as well as find ones who would be eligible to participate in a mentorship program. 
