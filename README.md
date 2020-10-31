@@ -32,7 +32,7 @@ Then we used the SQL query "Distinct On" to make sure we were only counting an e
  
  The biggest issue with this data, was that it included all current and past employees. A better analysis would have been to filter by to-date as well to make sure we were only including current employees to find the true amount of employees eligible to retire. 
  
-  ![](Resources/actualemployeequery.PNG)
+  ![](Resources/queryforactualemployees.PNG)
 
  
  Another query to pull would to be look at sum of salaries that are retiring by group
